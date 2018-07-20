@@ -1,0 +1,81 @@
+{
+    "resources": [
+        {
+            "author": "Derek Banas",
+            "title": "JQuery Tutorial",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=BWXggB-T1jQ"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 1: Introduction and Selectors",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "dom"], 
+            "link": "https://www.youtube.com/watch?v=3nrLc_JOF7k"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 2: Events",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "dom", "dynamic"], 
+            "link": "https://www.youtube.com/watch?v=VlWsJHsVb-E"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 3: DOM Manipulation",
+            "desc": "",
+            "tags": ["js", "jquery", "javascript", "manipulation", "dynamic", "dom"], 
+            "link": "https://www.youtube.com/watch?v=q4FWSdX55ls"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 4: Effects and Animations",
+            "desc": "",
+            "tags": ["js", "jquery", "javascript", "effects", "dynamic"], 
+            "link": "https://www.youtube.com/watch?v=kVc_XfZY0vI"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "Bootstrap Beginner Crash Course",
+            "desc": "",
+            "tags": ["css", "bootstrap", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=5GcQtLDGXy8"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "CSS Grid Layout Crash Course",
+            "desc": "",
+            "tags": ["css", "grid", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=jV8B24rSN5o"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "CSS Crash Course for Absolute Beginners",
+            "desc": "",
+            "tags": ["css", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "Flexbox CSS in 20 Minutes",
+            "desc": "",
+            "tags": ["flexbox", "css"], 
+            "link": "https://www.youtube.com/watch?v=JJSoEo8JSnc"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "HTML Crash Course for Absolute Beginners",
+            "desc": "",
+            "tags": ["html", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JavaScript Fundamentals for Beginners",
+            "desc": "",
+            "tags": ["js", "javascript", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=vEROU2XtPR8"
+        }
+    ]
+}

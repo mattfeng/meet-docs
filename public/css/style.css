@@ -6,6 +6,10 @@
   font-family: ArcherProSemibold;
   src: url(../fonts/archer-semibold-pro.woff); }
 
+@font-face {
+  font-family: ProximaNovaSemibold;
+  src: url(../fonts/proxima-nova-semibold.woff2); }
+
 html, body {
   margin: 0;
   padding: 0;
@@ -13,7 +17,9 @@ html, body {
 
 /* START box model fix */
 *, *:before, *:after {
-  box-sizing: inherit; }
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0; }
 
 /* END box model fix */
 /* START branding */
@@ -37,8 +43,38 @@ body {
 /* END general */
 /* START navbar */
 nav {
-  background-color: #03afb0; }
+  background-color: #03afb0;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2) !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100; }
 
 /* END navbar */
+main {
+  position: relative;
+  top: 40px; }
+
+.hero-wrapper {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff; }
+  .hero-wrapper h1 {
+    margin: 0;
+    font-family: ProximaNovaSemibold, serif;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 48pt; }
+  .hero-wrapper .title {
+    position: absolute;
+    bottom: 20%;
+    width: auto; }
 
 /*# sourceMappingURL=style.css.map */
