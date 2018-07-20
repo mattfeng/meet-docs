@@ -6,7 +6,10 @@ var logger = require('morgan');
 var sassMiddleware = require('node-sass-middleware');
 
 var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+var resourcesRouter = require('./routes/resources');
+var slidesRouter = require('./routes/slides');
+var labsRouter = require('./routes/labs');
+var funRouter = require('./routes/fun');
 
 var app = express();
 
@@ -21,13 +24,16 @@ app.use(cookieParser());
 app.use(sassMiddleware({
   src: path.join(__dirname, 'public'),
   dest: path.join(__dirname, 'public'),
-  indentedSyntax: true, // true = .sass and false = .scss
+  indentedSyntax: false, // true = .sass and false = .scss
   sourceMap: true
 }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use('/resources', resourcesRouter);
+app.use('/slides', slidesRouter);
+app.use('/labs', labsRouter);
+app.use('/fun', funRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

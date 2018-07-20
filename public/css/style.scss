@@ -1,44 +1,55 @@
+$meet-red: #e3484f;
+$meet-lightblue: #03afb0;
+$meet-blue: #00455b;
 @font-face {
   font-family: ArcherProBold;
-  src: url(../fonts/archer-bold-pro.woff); }
+  src: url(../fonts/archer-bold-pro.woff);
+}
 
 @font-face {
   font-family: ArcherProSemibold;
-  src: url(../fonts/archer-semibold-pro.woff); }
+  src: url(../fonts/archer-semibold-pro.woff);
+}
 
 html, body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 /* START box model fix */
 *, *:before, *:after {
-  box-sizing: inherit; }
-
+  box-sizing: inherit;
+}
 /* END box model fix */
+
+
 /* START branding */
 .brand-logo {
   font-family: ArcherProBold, serif !important;
   font-size: 3em !important;
   text-rendering: optimizeLegibility;
   text-shadow: 1px 3px 3px rgba(0, 0, 0, 0.15);
-  margin-left: 16px; }
+  margin-left: 16px;
+}
 
 .brand-logo .invert {
   display: inline-block;
   -webkit-transform: translateZ(0) scaleX(-1);
-  transform: translateZ(0) scaleX(-1); }
-
+  transform: translateZ(0) scaleX(-1);
+}
 /* END branding */
+
 /* START general */
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
-
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
 /* END general */
+
+
 /* START navbar */
 nav {
-  background-color: #03afb0; }
-
+  background-color: $meet-lightblue;
+}
 /* END navbar */
 
-/*# sourceMappingURL=style.css.map */

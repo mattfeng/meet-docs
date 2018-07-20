@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-wrapper">
-        <a href="#!" class="brand-logo">Logo</a>
+        <a href="/" class="brand-logo">me<span class="invert">e</span>t</a>
         <a href="#" data-target="sidenav-links" class="sidenav-trigger">
             <i class="material-icons">menu</i>
         </a>
@@ -37,3 +37,6 @@
 </ul>
 
 <script type="text/javascript" src="/js/navbar.js"></script>
+<script>
+    $('a[href="' + <%- "'/" + activeLink + "'" %> + '"]').parent('li').addClass('active');
+</script>
