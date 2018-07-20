@@ -40,6 +40,9 @@ html, body {
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
+.badge {
+  border-radius: 5px !important; }
+
 /* END general */
 /* START navbar */
 nav {

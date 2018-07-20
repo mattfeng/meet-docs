@@ -5,7 +5,7 @@ const resources = require('./jsons/resources.json')
 router.get('/', function(req, res, next) {
   res.render('resources', {
     title: 'Resources',
-    mini: req.app.get('env') === 'development',
+    mini: true,
     activeLink: 'resources',
     resourceLinks: resources.resources
   })
