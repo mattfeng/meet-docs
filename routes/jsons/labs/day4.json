@@ -1,0 +1,35 @@
+{
+    "labs": [
+        {
+            "name": "To-Do List, Part 1",
+            "number": "1",
+            "desc": "This lab teaches how to plan, structure, and design a project so that later development is simplified.",
+            "tags": ["design", "plan", "organization"],
+            "instructions": "",
+            "github": "",
+            "solutions": "",
+            "image": ""
+        },
+        {
+            "name": "To-Do List, Part 2",
+            "number": "2",
+            "desc": "This lab aims to review HTML and CSS in order to create the skeleton and styling for the To-Do list.",
+            "tags": ["html", "css"],
+            "instructions": "",
+            "github": "",
+            "solutions": "",
+            "image": ""
+        },
+        {
+            "name": "To-Do List, Part 3",
+            "number": "3",
+            "desc": "This lab uses AJAX requests and DOM manipulation in order to complete the To-Do List app.",
+            "tags": ["js", "dom", "ajax", "api", "callback"],
+            "instructions": "",
+            "github": "",
+            "solutions": "",
+            "image": ""
+        },
+
+    ]
+}

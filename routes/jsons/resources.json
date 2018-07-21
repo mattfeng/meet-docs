@@ -5,77 +5,88 @@
             "title": "JQuery Tutorial",
             "desc": "",
             "tags": ["js", "javascript", "jquery", "crash course"], 
-            "link": "https://www.youtube.com/watch?v=BWXggB-T1jQ"
+            "link": "https://www.youtube.com/watch?v=BWXggB-T1jQ",
+            "image": "/imgs/resources/derek-jquery.png"
         },
         {
             "author": "Brad Traversy",
             "title": "JQuery Part 1: Introduction and Selectors",
             "desc": "",
             "tags": ["js", "javascript", "jquery", "dom"], 
-            "link": "https://www.youtube.com/watch?v=3nrLc_JOF7k"
+            "link": "https://www.youtube.com/watch?v=3nrLc_JOF7k",
+            "image": "/imgs/resources/jquery1.png"
         },
         {
             "author": "Brad Traversy",
             "title": "JQuery Part 2: Events",
             "desc": "",
             "tags": ["js", "javascript", "jquery", "dom", "dynamic"], 
-            "link": "https://www.youtube.com/watch?v=VlWsJHsVb-E"
+            "link": "https://www.youtube.com/watch?v=VlWsJHsVb-E",
+            "image": "/imgs/resources/jquery2.png"
         },
         {
             "author": "Brad Traversy",
             "title": "JQuery Part 3: DOM Manipulation",
             "desc": "",
             "tags": ["js", "jquery", "javascript", "manipulation", "dynamic", "dom"], 
-            "link": "https://www.youtube.com/watch?v=q4FWSdX55ls"
+            "link": "https://www.youtube.com/watch?v=q4FWSdX55ls",
+            "image": "/imgs/resources/jquery3.png"
         },
         {
             "author": "Brad Traversy",
             "title": "JQuery Part 4: Effects and Animations",
             "desc": "",
             "tags": ["js", "jquery", "javascript", "effects", "dynamic"], 
-            "link": "https://www.youtube.com/watch?v=kVc_XfZY0vI"
+            "link": "https://www.youtube.com/watch?v=kVc_XfZY0vI",
+            "image": "/imgs/resources/jquery4.png"
         },
         {
             "author": "Brad Traversy",
             "title": "Bootstrap Beginner Crash Course",
             "desc": "",
             "tags": ["css", "bootstrap", "crash course"], 
-            "link": "https://www.youtube.com/watch?v=5GcQtLDGXy8"
+            "link": "https://www.youtube.com/watch?v=5GcQtLDGXy8",
+            "image": "/imgs/resources/bootstrap.png"
         },
         {
             "author": "Brad Traversy",
             "title": "CSS Grid Layout Crash Course",
             "desc": "",
             "tags": ["css", "grid", "crash course"], 
-            "link": "https://www.youtube.com/watch?v=jV8B24rSN5o"
+            "link": "https://www.youtube.com/watch?v=jV8B24rSN5o",
+            "image": "/imgs/resources/grid.png"
         },
         {
             "author": "Brad Traversy",
             "title": "CSS Crash Course for Absolute Beginners",
             "desc": "",
             "tags": ["css", "crash course", "intro"], 
-            "link": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+            "link": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+            "image": "/imgs/resources/cssbeginners.png"
         },
         {
             "author": "Brad Traversy",
             "title": "Flexbox CSS in 20 Minutes",
             "desc": "",
             "tags": ["flexbox", "css"], 
-            "link": "https://www.youtube.com/watch?v=JJSoEo8JSnc"
+            "link": "https://www.youtube.com/watch?v=JJSoEo8JSnc",
+            "image": "/imgs/resources/flexbox.png"
         },
         {
             "author": "Brad Traversy",
             "title": "HTML Crash Course for Absolute Beginners",
             "desc": "",
             "tags": ["html", "crash course", "intro"], 
-            "link": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+            "link": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+            "image": "/imgs/resources/htmlbeginners.png"
         },
         {
             "author": "Brad Traversy",
             "title": "JavaScript Fundamentals for Beginners",
             "desc": "",
             "tags": ["js", "javascript", "crash course", "intro"], 
-            "link": "https://www.youtube.com/watch?v=vEROU2XtPR8"
+            "link": "https://www.youtube.com/watch?v=vEROU2XtPR8",
+            "image": "/imgs/resources/jsbeginners.png"
         }
     ]
 }

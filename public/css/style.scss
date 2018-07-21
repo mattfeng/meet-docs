@@ -54,6 +54,24 @@ body {
 
 .badge {
   border-radius: 5px !important;
+  background-color: $meet-red !important;
+  float: left !important;
+  margin-left: 0 !important;
+  margin-right: 14px;
+  margin-bottom: 3px;
+}
+
+.badges {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.clr {
+  clear: both;
+}
+
+.description {
+  margin-top: 3px !important;
 }
 /* END general */
 
@@ -83,6 +101,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
+  margin-bottom: 15px;
 
   h1 {
     margin: 0;

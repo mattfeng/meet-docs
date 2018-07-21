@@ -22,26 +22,37 @@
         <% for (var i = 0; i < resourceLinks.length; i++) { %>
           <div class="row">
             <div class="col s12 m12">
-              <div class="card small">
-                <div class="card-content">
-                  <span class="card-title">
-                    <%= resourceLinks[i].title %>
-                    <% for (var j = 0; j < resourceLinks[i].tags.length; j++) { %>
-                      <span class="new badge red" data-badge-caption="">
-                        <%= resourceLinks[i].tags[j] %>
-                      </span>
-                    <% } %>
-                  </span>
-                  <span class="card-subtitle">
-                    <%= resourceLinks[i].author %>
-                  </span>
-                  <p>
-                    <%= resourceLinks[i].desc %>
-                  </p>
+              <div class="card small horizontal">
+                <div class="card-image">
+                  <img src="<%- resourceLinks[i].image %>" alt="">
                 </div>
 
-                <div class="card-action">
-                  <a target="_blank" href="<%- resourceLinks[i].link %>">Go to resource</a>
+                <div class="card-stacked">
+                  <div class="card-content">
+                    <span class="card-title">
+                      <%= resourceLinks[i].title %>
+                    </span>
+                    <span class="card-subtitle">
+                      <%= resourceLinks[i].author %>
+                    </span>
+                    <div class="badges">
+                      <% for (var j = 0; j < resourceLinks[i].tags.length; j++) { %>
+                        <span class="new badge" data-badge-caption="">
+                          <%= resourceLinks[i].tags[j] %>
+                        </span>
+                      <% } %>
+                    </div>
+                    <div class="clr"></div>
+                    <div class="description">
+                      <p>
+                        <%= resourceLinks[i].desc %>
+                      </p>
+                    </div>
+                  </div>
+
+                  <div class="card-action">
+                    <a target="_blank" href="<%- resourceLinks[i].link %>">Go to resource</a>
+                  </div>
                 </div>
               </div>
             </div>
