@@ -1,0 +1,52 @@
+{
+    "resources": [
+        {
+            "author": "Brad Traversy",
+            "title": "JavaScript Fundamentals for Beginners",
+            "desc": "",
+            "tags": ["js", "javascript", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=vEROU2XtPR8",
+            "image": "/imgs/resources/jsbeginners.png"
+        },
+        {
+            "author": "Derek Banas",
+            "title": "JQuery Tutorial",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=BWXggB-T1jQ",
+            "image": "/imgs/resources/derek-jquery.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 1: Introduction and Selectors",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "dom"], 
+            "link": "https://www.youtube.com/watch?v=3nrLc_JOF7k",
+            "image": "/imgs/resources/jquery1.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 2: Events",
+            "desc": "",
+            "tags": ["js", "javascript", "jquery", "dom", "dynamic"], 
+            "link": "https://www.youtube.com/watch?v=VlWsJHsVb-E",
+            "image": "/imgs/resources/jquery2.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 3: DOM Manipulation",
+            "desc": "",
+            "tags": ["js", "jquery", "javascript", "manipulation", "dynamic", "dom"], 
+            "link": "https://www.youtube.com/watch?v=q4FWSdX55ls",
+            "image": "/imgs/resources/jquery3.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "JQuery Part 4: Effects and Animations",
+            "desc": "",
+            "tags": ["js", "jquery", "javascript", "effects", "dynamic"], 
+            "link": "https://www.youtube.com/watch?v=kVc_XfZY0vI",
+            "image": "/imgs/resources/jquery4.png"
+        }
+    ]
+}

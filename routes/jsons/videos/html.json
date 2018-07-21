@@ -1,0 +1,12 @@
+{
+    "resources": [
+        {
+            "author": "Brad Traversy",
+            "title": "HTML Crash Course for Absolute Beginners",
+            "desc": "",
+            "tags": ["html", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+            "image": "/imgs/resources/htmlbeginners.png"
+        }
+    ]
+}

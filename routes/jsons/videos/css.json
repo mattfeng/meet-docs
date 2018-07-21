@@ -1,0 +1,36 @@
+{
+    "resources": [
+        {
+            "author": "Brad Traversy",
+            "title": "CSS Crash Course for Absolute Beginners",
+            "desc": "",
+            "tags": ["css", "crash course", "intro"], 
+            "link": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+            "image": "/imgs/resources/cssbeginners.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "CSS Grid Layout Crash Course",
+            "desc": "",
+            "tags": ["css", "grid", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=jV8B24rSN5o",
+            "image": "/imgs/resources/grid.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "Flexbox CSS in 20 Minutes",
+            "desc": "",
+            "tags": ["flexbox", "css"], 
+            "link": "https://www.youtube.com/watch?v=JJSoEo8JSnc",
+            "image": "/imgs/resources/flexbox.png"
+        },
+        {
+            "author": "Brad Traversy",
+            "title": "Bootstrap Beginner Crash Course",
+            "desc": "",
+            "tags": ["css", "bootstrap", "crash course"], 
+            "link": "https://www.youtube.com/watch?v=5GcQtLDGXy8",
+            "image": "/imgs/resources/bootstrap.png"
+        }
+    ]
+}
