@@ -4,7 +4,7 @@
             "name": "Git and Version Control",
             "number": "1",
             "desc": "This lab teaches how to plan, structure, and design a project so that later development is simplified.",
-            "tags": ["design", "plan", "organization"],
+            "tags": ["git", "vcs", "organization"],
             "instructions": "",
             "github": "",
             "solutions": "",
@@ -13,8 +13,8 @@
         {
             "name": "Calculator, Part 1",
             "number": "2",
-            "desc": "This lab aims to review HTML and CSS in order to create the skeleton and styling for the To-Do list.",
-            "tags": ["html", "css"],
+            "desc": "In this lab, we will build a simple calculator application in JavaScript. The goal is to familiarize students with programming JavaScript.",
+            "tags": ["js", "javascript"],
             "instructions": "",
             "github": "",
             "solutions": "",
@@ -23,7 +23,7 @@
         {
             "name": "Calculator, Part 2",
             "number": "3",
-            "desc": "This lab uses AJAX requests and DOM manipulation in order to complete the To-Do List app.",
+            "desc": "We extend the work from Part 1 and supplement the calculator with a user interface, which requires JavaScript in order to function.",
             "tags": ["js", "dom", "ajax", "api", "callback"],
             "instructions": "",
             "github": "",
