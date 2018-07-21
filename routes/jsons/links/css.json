@@ -1,0 +1,13 @@
+{
+    "category": "CSS",
+    "resources": [
+        {
+            "author": "Jeremy Thomas",
+            "title": "CSSReference.io",
+            "desc": "One of the best websites to search for more details and examples on how to use specific CSS properties.",
+            "tags": ["reference", "documentation"], 
+            "link": "https://cssreference.io/",
+            "image": "/imgs/resources/cssreferenceio.png"
+        }
+    ]
+}

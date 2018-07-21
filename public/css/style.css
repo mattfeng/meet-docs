@@ -96,4 +96,9 @@ main {
     bottom: 20%;
     width: auto; }
 
+h2 {
+  font-family: ProximaNovaSemibold, serif;
+  text-transform: uppercase;
+  font-size: 32pt; }
+
 /*# sourceMappingURL=style.css.map */
