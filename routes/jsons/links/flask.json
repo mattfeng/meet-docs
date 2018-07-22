@@ -1,0 +1,13 @@
+{
+    "category": "Flask",
+    "resources": [
+        {
+            "author": "Explore Flas",
+            "title": "Flask Project Organization",
+            "desc": "This article describes how to organize a Flask application in order to ease development in the future.",
+            "tags": ["reference", "tutorial"], 
+            "link": "http://exploreflask.com/en/latest/organizing.html",
+            "image": "/imgs/resources/flaskorgarticle.png"
+        }
+    ]
+}
