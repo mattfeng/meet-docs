@@ -10,6 +10,7 @@ var resourcesRouter = require('./routes/resources');
 var slidesRouter = require('./routes/slides');
 var labsRouter = require('./routes/labs');
 var funRouter = require('./routes/fun');
+var exerciseRouter = require('./routes/exercises');
 
 var app = express();
 
@@ -34,6 +35,7 @@ app.use('/resources', resourcesRouter);
 app.use('/slides', slidesRouter);
 app.use('/labs', labsRouter);
 app.use('/fun', funRouter);
+app.use('/exercises', exerciseRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

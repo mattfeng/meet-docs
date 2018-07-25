@@ -9,4 +9,13 @@ router.get('/', function(req, res, next) {
   })
 });
 
+router.get('/:labName', function (req, res, next) {
+  let labName = req.params.labName
+  try {
+    res.render(`labs/lab-${labName}`)
+  } catch (error) {
+    res.send("That lab doesn't exist, sorry!")
+  }
+});
+
 module.exports = router;

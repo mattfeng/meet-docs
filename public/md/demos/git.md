@@ -64,6 +64,7 @@ Untracked files:
 ```
 
 ## Tracking Changes, Part 2
+**Key Idea:** Editing an already staged file does not mean that those edits will automatically be committed.
 ```bash
 # Make some changes to myapp.py, and display the edits (cat)
 $ vim myapp.py
@@ -92,3 +93,5 @@ Untracked files:
 
 	README.md
 ```
+
+# Tracking Changes, Part 3 (Multiple Files)
