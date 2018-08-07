@@ -1,0 +1,76 @@
+{
+    "slides": [
+        {
+            "title": "Overview and Review of Git",
+            "url": "https://go.meet.sh/y2-2018-intro",
+            "desc": "Week 1, Day 1",
+            "img": "/imgs/slides/intro.png"
+        },
+        {
+            "title": "Web Pages and Introduction to HTML",
+            "url": "https://go.meet.sh/html-day1",
+            "desc": "Week 1, Day 1",
+            "img": "/imgs/slides/html1.png"
+        },
+        {
+            "title": "HTML, Continued",
+            "url": "https://go.meet.sh/html-day2",
+            "desc": "Week 1, Day 2",
+            "img": "/imgs/slides/html2.png"
+        },
+        {
+            "title": "Introduction to CSS",
+            "url": "https://go.meet.sh/css-lecture",
+            "desc": "Week 1, Day 2",
+            "img": "/imgs/slides/css.png"
+        },
+        {
+            "title": "Introduction to JavaScript, Part 1",
+            "url": "https://go.meet.sh/intro-js-1",
+            "desc": "Week 1, Day 3",
+            "img": "/imgs/slides/js1.png"
+        },
+        {
+            "title": "Introduction to JavaScript, Part 2",
+            "url": "https://go.meet.sh/intro-js-2",
+            "desc": "Week 1, Day 3",
+            "img": "/imgs/slides/js2.png"
+        },
+        {
+            "title": "jQuery: Selectors, Events, and DOM Manipulation",
+            "url": "https://go.meet.sh/jquery-1",
+            "desc": "Week 1, Day 4",
+            "img": "/imgs/slides/jquery1.png"
+        },
+        {
+            "title": "Python Review",
+            "url": "https://go.meet.sh/python_slides",
+            "desc": "Week 2, Day 1",
+            "img": "/imgs/slides/python.png"
+        },
+        {
+            "title": "Databases and SQLAlchemy",
+            "url": "https://go.meet.sh/databases_slides",
+            "desc": "Week 2, Day 2",
+            "img": "/imgs/slides/sqlalchemy.png"
+        },
+        {
+            "title": "Introduction to Flask",
+            "url": "https://go.meet.sh/flask_intro_lecture",
+            "desc": "Week 2, Day 3",
+            "img": "/imgs/slides/flask1.png"
+        },
+        {
+            "title": "Flask Routing",
+            "url": "https://go.meet.sh/flask-routing",
+            "desc": "Week 2, Day 4",
+            "img": "/imgs/slides/flask2.png"
+        },
+        {
+            "title": "Flask Forms",
+            "url": "https://go.meet.sh/flask-forms",
+            "desc": "Week 2, Day 4",
+            "img": "/imgs/slides/flask3.png"
+        }
+    ]
+}
