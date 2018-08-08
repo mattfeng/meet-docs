@@ -71,6 +71,12 @@
             "url": "https://go.meet.sh/flask-forms",
             "desc": "Week 2, Day 4",
             "img": "/imgs/slides/flask3.png"
+        },
+        {
+            "title": "Hackathon Reveal",
+            "url": "https://go.meet.sh/reveal",
+            "desc": "Week 2, Day 4",
+            "img": "/imgs/slides/reveal.png"
         }
     ]
 }
