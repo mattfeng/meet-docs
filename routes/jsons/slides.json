@@ -77,6 +77,12 @@
             "url": "https://go.meet.sh/reveal",
             "desc": "Week 2, Day 4",
             "img": "/imgs/slides/reveal.png"
+        },
+        {
+            "title": "Project Pitch",
+            "url": "https://go.meet.sh/pitch",
+            "desc": "Week 2, Day 5: Hackathon starting!",
+            "img": "/imgs/slides/pitch.png"
         }
     ]
 }
