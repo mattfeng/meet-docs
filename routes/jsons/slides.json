@@ -83,6 +83,30 @@
             "url": "https://go.meet.sh/pitch",
             "desc": "Week 2, Day 5: Hackathon starting!",
             "img": "/imgs/slides/pitch.png"
+        },
+        {
+            "title": "Group A Teams and Projects",
+            "url": "https://go.meet.sh/a",
+            "desc": "Week 2, Day 5: Group A Teams",
+            "img": "/imgs/slides/a.png"
+        },
+        {
+            "title": "Group B Teams and Projects",
+            "url": "https://go.meet.sh/b",
+            "desc": "Week 2, Day 5: Group B Teams",
+            "img": "/imgs/slides/b.png"
+        },
+        {
+            "title": "Group C Teams and Projects",
+            "url": "https://go.meet.sh/c",
+            "desc": "Week 2, Day 5: Group C Teams",
+            "img": "/imgs/slides/c.png"
+        },
+        {
+            "title": "Group D Teams and Projects",
+            "url": "https://go.meet.sh/d",
+            "desc": "Week 2, Day 5: Group D Teams",
+            "img": "/imgs/slides/d.png"
         }
     ]
 }
