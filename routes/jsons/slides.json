@@ -107,6 +107,12 @@
             "url": "https://go.meet.sh/d",
             "desc": "Week 2, Day 5: Group D Teams",
             "img": "/imgs/slides/d.png"
+        },
+        {
+            "title": "Bootstrap Basics",
+            "url": "https://go.meet.sh/bootstrap",
+            "desc": "Week 3, Day 2: Bootstrap Basics",
+            "img": "/imgs/slides/bootstrap.png"
         }
     ]
 }
