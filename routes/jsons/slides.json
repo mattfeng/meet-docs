@@ -113,6 +113,12 @@
             "url": "https://go.meet.sh/bootstrap",
             "desc": "Week 3, Day 2: Bootstrap Basics",
             "img": "/imgs/slides/bootstrap.png"
+        },
+        {
+            "title": "CSS Animations",
+            "url": "https://go.meet.sh/anim-lec",
+            "desc": "CSS Animations Lecture",
+            "img": "/imgs/slides/anim.png"
         }
     ]
 }
