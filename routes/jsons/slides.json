@@ -119,6 +119,12 @@
             "url": "https://go.meet.sh/anim-lec",
             "desc": "CSS Animations Lecture",
             "img": "/imgs/slides/anim.png"
+        },
+        {
+            "title": "Presentation Guidelines",
+            "url": "https://go.meet.sh/guidelines",
+            "desc": "Presentation guidelines lecture",
+            "img": "/imgs/slides/guideline.png"
         }
     ]
 }
