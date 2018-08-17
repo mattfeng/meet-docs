@@ -125,6 +125,18 @@
             "url": "https://go.meet.sh/guidelines",
             "desc": "Presentation guidelines lecture",
             "img": "/imgs/slides/guideline.png"
+        }, 
+        {
+            "title": "Deploying your web app using Heroku",
+            "url": "https://go.meet.sh/heroku-slides",
+            "desc": "Bonus lecture: How to deploy (publish your website) using Heroku",
+            "img": "/imgs/slides/heroku.png"
+        }, 
+        {
+            "title": "Deploying your web app using Python Anywhere",
+            "url": "https://go.meet.sh/pythonanywhere",
+            "desc": "Bonus lecture: How to deploy (publish your website) using Python Anywhere",
+            "img": "/imgs/slides/pythonanywhere.png"
         }
     ]
 }
